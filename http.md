@@ -51,7 +51,7 @@ HTTP Hyper Text Transfer Protocol 超文本传输协议
 
 ### 使用 nodejs 实现一个简单的 http server
 
-#### 项目地址
+[项目地址](https://github.com/HITLiBo/nodejs-http-server)
 
 - 请求
   请求动词 路径加查询参数 协议名/版本
